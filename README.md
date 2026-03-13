@@ -68,8 +68,8 @@ I'm currently working on building scalable web applications at **SFA Technologie
 
 ## 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Pratyush12-SFA&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Pratyush12-SFA&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📊 Developer Metrics
 
-![Metrics](https://metrics.lecoq.io/Pratyush12-SFA?template=classic&languages=1&isocalendar=1&activity=1)
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyush12-SFA&theme=tokyonight)
