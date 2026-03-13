@@ -1,7 +1,7 @@
 # 🖥 Welcome to my Terminal
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+Engineer;React+Developer;Building+Government+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+Engineer;React+Developer;Building+Government+Systems;Always+Learning+New+Things)
 
 
 I'm currently working on building scalable web applications at **SFA Technologies Pvt Ltd**, combining **React (Vite), Tailwind CSS, and ASP.NET Core** to craft intuitive interfaces and robust backend systems.
@@ -28,16 +28,28 @@ I'm currently working on building scalable web applications at **SFA Technologie
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pratyush12-SFA&show_icons=true&theme=tokyonight)
 
+![Streak](https://streak-stats.demolab.com?user=Pratyush12-SFA&theme=tokyonight)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush12-SFA&layout=compact&theme=tokyonight)
 
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyush12-SFA&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyush12-SFA&theme=tokyo-night)
+
+
+## 🌐 3D Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyush12-SFA&theme=tokyonight">
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush12-SFA&layout=donut&theme=tokyonight)
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Pratyush12-SFA&label=Profile%20Views&color=blue)
@@ -45,3 +57,11 @@ I'm currently working on building scalable web applications at **SFA Technologie
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Pratyush12-SFA/Pratyush12-SFA/blob/output/github-contribution-grid-snake.svg)
+
+## 💡 Dev Thought of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🎧 Coding Playlist
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31xyz&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app)
