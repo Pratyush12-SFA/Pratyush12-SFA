@@ -51,6 +51,10 @@ I'm currently working on building scalable web applications at **SFA Technologie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush12-SFA&layout=donut&theme=tokyonight)
 
+## ⏱ Coding Activity
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pratyush12-SFA)
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Pratyush12-SFA&label=Profile%20Views&color=blue)
 
@@ -62,6 +66,10 @@ I'm currently working on building scalable web applications at **SFA Technologie
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🎧 Coding Playlist
+## 🏆 GitHub Achievements
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31xyz&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app)
+![trophy](https://github-profile-trophy.vercel.app/?username=Pratyush12-SFA&theme=tokyonight)
+
+## 📊 Developer Metrics
+
+![Metrics](https://metrics.lecoq.io/Pratyush12-SFA?template=classic&languages=1&isocalendar=1&activity=1)
